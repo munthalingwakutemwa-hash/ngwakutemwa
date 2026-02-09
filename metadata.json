@@ -1,0 +1,5 @@
+{
+  "name": "CellBridge - Mobile Data Link",
+  "description": "High-performance cellular-to-PC data bridging. Route smartphone data via USB or Wi-Fi with advanced bandwidth monitoring and optimization.",
+  "requestFramePermissions": []
+}
